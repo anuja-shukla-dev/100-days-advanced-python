@@ -62,10 +62,3 @@ A decorator with arguments generally follows this structure:
 - A `return` inside a loop immediately stops the loop.
 - In a retry decorator, successful execution should return immediately, while an exception allows the loop to continue.
 
-## Day 13 Status
-
-- Decorators with Arguments: Completed
-- Practice Programs: 7
-- Difficulty: Basic to Advanced
-- Status: Completed
-
