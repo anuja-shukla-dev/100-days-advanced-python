@@ -1,0 +1,6 @@
+Python is easy to learn.
+Generators are memory efficient.
+Yield pauses a generator.
+Iterators and generators are related.
+Lazy evaluation saves memory.
+Practice makes concepts stronger.
